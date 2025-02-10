@@ -1,0 +1,12 @@
+[{
+  "_id": "users",
+  "seq": 9
+},
+{
+  "_id": "profiles",
+  "seq": 9
+},
+{
+  "_id": "jobs",
+  "seq": 10
+}]

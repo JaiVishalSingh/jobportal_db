@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$numberLong": "1"
+  },
+  "name": "Happy",
+  "email": "22it007@jssaten.ac.in",
+  "password": "$2a$10$D.D3JfbyYkDxaglF34Vmpe9escR3PryRsM4L6Gua7qAFWB/7Xh1kK",
+  "accountType": "APPLICANT",
+  "profileId": {
+    "$numberLong": "1"
+  },
+  "_class": "com.stemlen.entity.User"
+},
+{
+  "_id": {
+    "$numberLong": "3"
+  },
+  "name": "handsome hunk",
+  "email": "shashankkumarrathour2004@gmail.com",
+  "password": "$2a$10$sDsQZxY9SYBs461kUExncexmPuHezQhyeDvrelOtEQqdowoLmITdm",
+  "accountType": "APPLICANT",
+  "profileId": {
+    "$numberLong": "3"
+  },
+  "_class": "com.stemlen.entity.User"
+},
+{
+  "_id": {
+    "$numberLong": "5"
+  },
+  "name": "handsome hunk",
+  "email": "xrf@gmail.com",
+  "password": "$2a$10$j7LCKgHv3Y2npeOgH0aPauGekRv4a8Zj.JnjnGDO7ziuPdKRtMZbW",
+  "accountType": "APPLICANT",
+  "profileId": {
+    "$numberLong": "5"
+  },
+  "_class": "com.stemlen.entity.User"
+},
+{
+  "_id": {
+    "$numberLong": "9"
+  },
+  "name": "Shashank Kumar Rathour",
+  "email": "22csaiml002@jssaten.ac.in",
+  "password": "$2a$10$fZ.4zibWVf6/qKcfAvnrnuJtkNFkp5IYbfOyNXbVkhGA32ejrCGY6",
+  "accountType": "COMPANY",
+  "profileId": {
+    "$numberLong": "9"
+  },
+  "_class": "com.stemlen.entity.User"
+}]
