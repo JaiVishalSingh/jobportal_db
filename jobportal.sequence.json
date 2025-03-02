@@ -11,10 +11,6 @@
   "seq": 10
 },
 {
-  "_id": "hackathons",
-  "seq": 0
-},
-{
   "_id": "hackathon",
   "seq": 10
 }]
